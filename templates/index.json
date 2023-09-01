@@ -109,9 +109,7 @@
     "social_widget_59483": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "59483",
-        "social_product_id": "none",
-        "social_widget_type": "none"
+        "social_widget_id": "59483"
       }
     }
   },
