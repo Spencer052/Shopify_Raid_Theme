@@ -16,107 +16,17 @@
         "show_text_below": true
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "new",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "accent-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
-    "collapsible-content": {
-      "type": "collapsible-content",
-      "blocks": {
-        "row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "SHARE A BENEFIT OF YOUR FEATURED PRODUCT",
-            "icon": "shirt",
-            "row_content": "<p>Include key facts, specifications, and important information about your featured product. <\/p><p>Add an image in your Collapsible content settings for more visual interest.<\/p>",
-            "page": ""
-          }
-        },
-        "row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "SHARE ANOTHER BENEFIT",
-            "icon": "lightning_bolt",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "SHARE ANOTHER BENEFIT",
-            "icon": "fire",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "row-4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "SHARE ANOTHER BENEFIT",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "row-1",
-        "row-2",
-        "row-3",
-        "row-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "caption": "ADD A CAPTION",
-        "heading": "COLLAPSIBLE CONTENT",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": true,
-        "image_ratio": "large",
-        "desktop_layout": "image_first",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "social_widget_59483": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "59483"
+        "social_widget_id": "59483",
+        "social_product_id": "none",
+        "social_widget_type": "none"
       }
     }
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
-    "featured_collection",
-    "collapsible-content",
     "social_widget_59483"
   ]
 }
