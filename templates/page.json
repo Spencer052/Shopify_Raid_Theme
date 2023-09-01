@@ -35,13 +35,14 @@
         "6f891e4d-b552-4f08-80f3-1a28f5ad150f"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/283158602_4526607960775327_4099626290852629322_n.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
