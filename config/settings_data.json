@@ -1,7 +1,7 @@
 {
   "current": {
-    "colors_solid_button_labels": "#1f1f21",
-    "colors_accent_1": "#e3fc02",
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#272727",
     "gradient_accent_1": "",
     "colors_accent_2": "#ffffff",
     "gradient_accent_2": "",
@@ -193,30 +193,8 @@
       },
       "header": {
         "type": "header",
-        "blocks": {
-          "393d30cf-a668-49b9-a046-005e3614b115": {
-            "type": "announcement",
-            "settings": {
-              "text": "Hassle-free returns",
-              "link_text": "30-day postage paid returns",
-              "link": ""
-            }
-          },
-          "df4f1912-0f0f-434b-a5c3-44a53950f41d": {
-            "type": "announcement",
-            "settings": {
-              "text": "Hassle-free returns",
-              "link_text": "30-day postage paid returns",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "393d30cf-a668-49b9-a046-005e3614b115",
-          "df4f1912-0f0f-434b-a5c3-44a53950f41d"
-        ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "logo": "{{ shop.brand.logo }}",
           "logo_width": 80,
           "logo_position": "middle-center",
@@ -243,7 +221,6 @@
           "image": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/18df8a4ecf5fbf9aa67166c4aade7482.jpg",
               "image_width": 200,
               "alignment": "center"
             }
