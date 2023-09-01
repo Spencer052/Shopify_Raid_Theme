@@ -108,7 +108,7 @@
     "social_twitter_link": "",
     "social_facebook_link": "",
     "social_pinterest_link": "",
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/instagram.com\/darkheartscrew",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -214,34 +214,26 @@
           "link-list": {
             "type": "link_list",
             "settings": {
-              "heading": "ABOUT US",
+              "heading": "COMPLAINT CORNER",
               "menu": "footer"
-            }
-          },
-          "image": {
-            "type": "image",
-            "settings": {
-              "image_width": 200,
-              "alignment": "center"
             }
           },
           "text": {
             "type": "text",
             "settings": {
-              "heading": "",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "ABOUT US",
+              "subtext": "<p>Just a couple active duty dudes that are looking to make the world a better place.<\/p><p><\/p><p>ALL SALES ARE FINAL. NO RETURNS OR EXCHANGES.<\/p>"
             }
           }
         },
         "block_order": [
           "link-list",
-          "image",
           "text"
         ],
         "settings": {
-          "color_scheme": "background-2",
-          "newsletter_enable": false,
-          "newsletter_heading": "",
+          "color_scheme": "accent-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "GET ON THE LIST",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
