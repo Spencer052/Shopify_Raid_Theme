@@ -105,11 +105,18 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "social_widget_59483": {
+      "type": "social-widget",
+      "settings": {
+        "social_widget_id": "59483"
+      }
     }
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
     "featured_collection",
-    "collapsible-content"
+    "collapsible-content",
+    "social_widget_59483"
   ]
 }
