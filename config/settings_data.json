@@ -260,7 +260,39 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "6349397681050116253": {
+        "type": "shopify:\/\/apps\/pre-order-today\/blocks\/pre-order-helper\/b4b8d0bd-b722-432c-8a1e-6083d9c9dbe7",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "17922095692786018703": {
+        "type": "shopify:\/\/apps\/pre-order-today\/blocks\/pre-order-product\/b4b8d0bd-b722-432c-8a1e-6083d9c9dbe7",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "9005256451184024879": {
+        "type": "shopify:\/\/apps\/uppromote-affiliate-referral\/blocks\/customer-referral\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "1996061711396120121": {
+        "type": "shopify:\/\/apps\/uppromote-affiliate-referral\/blocks\/message-bar\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4275615285897611771": {
+        "type": "shopify:\/\/apps\/fera\/blocks\/embed\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
