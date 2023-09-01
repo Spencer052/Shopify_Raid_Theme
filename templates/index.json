@@ -43,26 +43,6 @@
         "padding_bottom": 0
       }
     },
-    "1693588213a0c17a5a": {
-      "type": "apps",
-      "blocks": {
-        "a52179b9-c11c-46db-b7d0-ba05d37f4eb2": {
-          "type": "shopify:\/\/apps\/fera\/blocks\/all_reviews\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-          "settings": {
-            "heading": "Customer Reviews",
-            "layout": "list",
-            "star_color": "#ff0808",
-            "types_to_show": "both"
-          }
-        }
-      },
-      "block_order": [
-        "a52179b9-c11c-46db-b7d0-ba05d37f4eb2"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "collapsible-content": {
       "type": "collapsible-content",
       "blocks": {
@@ -129,7 +109,6 @@
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
     "featured_collection",
-    "1693588213a0c17a5a",
     "collapsible-content"
   ]
 }
