@@ -2,15 +2,39 @@
   "sections": {
     "130088f2-a117-436e-9fc8-cecf15152b9c": {
       "type": "image-banner",
+      "blocks": {
+        "04e5ca83-b874-44cc-9058-ef3e97606eb2": {
+          "type": "text",
+          "settings": {
+            "text": "DEAD HEART windbreaker. Stay Comfortable. Stay Bold.",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "e03364bd-cb93-467f-b63c-d0f09ea89c8b": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "PRE-ORDER",
+            "button_link_1": "shopify:\/\/products\/dead-heart",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "04e5ca83-b874-44cc-9058-ef3e97606eb2",
+        "e03364bd-cb93-467f-b63c-d0f09ea89c8b"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PRODUCT-PHOTO.jpg",
+        "image": "shopify:\/\/shop_images\/DSC03598-Edit.gif",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
