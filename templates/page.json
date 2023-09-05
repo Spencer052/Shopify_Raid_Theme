@@ -13,7 +13,7 @@
         "template--20756982300966__3fee0761-48d4-4a09-95b3-4475983dc2b6-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "SQUAD UP",
             "heading_size": "h1"
           }
         },
@@ -53,55 +53,10 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "cff464f6-a177-4be9-876a-cef33d253b88": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "SQUAD UP",
-            "heading_size": "h1"
-          }
-        },
-        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Everyone gets the same offer.  Buy whatever you want at full price, and I give you a coupon code.  If that code is used by at least 10 unique shoppers in the first 30 days, I'll refund your entire purchase and add a 10% royalty to your code.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "SIGN UP",
-            "button_link": "https:\/\/af.uppromote.com\/darkhearts\/register"
-          }
-        }
-      },
-      "block_order": [
-        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-heading-1",
-        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-text-1",
-        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Social.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
-    "3fee0761-48d4-4a09-95b3-4475983dc2b6",
-    "cff464f6-a177-4be9-876a-cef33d253b88"
+    "3fee0761-48d4-4a09-95b3-4475983dc2b6"
   ]
 }
