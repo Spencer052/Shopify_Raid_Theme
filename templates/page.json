@@ -6,9 +6,54 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "cff464f6-a177-4be9-876a-cef33d253b88": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SQUAD UP",
+            "heading_size": "h1"
+          }
+        },
+        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everyone gets the same offer.  Buy whatever you want at full price, and I give you a coupon code.  If that code is used by at least 10 unique shoppers in the first 30 days, I'll refund your entire purchase and add a 10% royalty to your code.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-heading-1",
+        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-text-1",
+        "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Social.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "cff464f6-a177-4be9-876a-cef33d253b88"
   ]
 }
