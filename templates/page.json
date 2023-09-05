@@ -27,8 +27,8 @@
         "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "SIGN UP",
-            "button_link": "https:\/\/af.uppromote.com\/darkhearts\/register"
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Social.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
