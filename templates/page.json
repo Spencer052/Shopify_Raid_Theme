@@ -27,8 +27,8 @@
         "template--20756982300966__cff464f6-a177-4be9-876a-cef33d253b88-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "SIGN UP",
+            "button_link": "https:\/\/af.uppromote.com\/darkhearts\/register"
           }
         }
       },
