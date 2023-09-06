@@ -313,5 +313,6 @@
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
   {% render 'preorder-now' %}
-  {% include 'appikon-pre-order-helper' %}{% include 'appikon-pre-order-cart-items-liquid-helper' %}{% include 'appikon-pre-order-product-liquid-helper' %}</body>
+  {% include 'appikon-pre-order-helper' %}{% include 'appikon-pre-order-cart-items-liquid-helper' %}{% include 'appikon-pre-order-product-liquid-helper' %}{{'tiny-img-link-preloader.js' | asset_url | script_tag }}
+</body>
 </html>
