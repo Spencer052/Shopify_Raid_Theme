@@ -26,6 +26,7 @@
         "04e5ca83-b874-44cc-9058-ef3e97606eb2",
         "e03364bd-cb93-467f-b63c-d0f09ea89c8b"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC03598-Edit.gif",
         "image_overlay_opacity": 0,
@@ -42,15 +43,27 @@
     },
     "social_widget_59483": {
       "type": "social-widget",
+      "disabled": true,
       "settings": {
         "social_widget_id": "59483",
         "social_product_id": "none",
         "social_widget_type": "none"
       }
+    },
+    "16894698-73c7-4cb6-bdc3-7518a15cb547": {
+      "type": "page",
+      "settings": {
+        "page": "privacy",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
-    "social_widget_59483"
+    "social_widget_59483",
+    "16894698-73c7-4cb6-bdc3-7518a15cb547"
   ]
 }
