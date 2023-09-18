@@ -29,7 +29,7 @@
         "e03364bd-cb93-467f-b63c-d0f09ea89c8b"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_4046.png",
+        "image": "shopify:\/\/shop_images\/DSC03598-Edit.gif",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -68,6 +68,14 @@
             "heading_size": "h1"
           }
         },
+        "262bc339-fe91-4610-b43a-95fb683a4186": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "THIS ITEM IS A PRE-ORDER.  ITEMS WILL SHIP APPROXIMATELY 2-3 WEEKS AFTER THE PRE-ORDER CLOSES.  ",
+            "text_style": "body"
+          }
+        },
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1": {
           "type": "price",
           "settings": {
@@ -101,6 +109,7 @@
       "block_order": [
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-text-1",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1",
+        "262bc339-fe91-4610-b43a-95fb683a4186",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-quantity_selector-1",
