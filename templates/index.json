@@ -5,6 +5,7 @@
       "blocks": {
         "04e5ca83-b874-44cc-9058-ef3e97606eb2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "DEAD HEART windbreaker. Stay Comfortable. Stay Bold.",
             "text_style": "caption-with-letter-spacing"
@@ -12,6 +13,7 @@
         },
         "e03364bd-cb93-467f-b63c-d0f09ea89c8b": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "PRE-ORDER",
             "button_link_1": "shopify:\/\/products\/dead-heart",
@@ -27,9 +29,9 @@
         "e03364bd-cb93-467f-b63c-d0f09ea89c8b"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC03598-Edit.gif",
+        "image": "shopify:\/\/shop_images\/IMG_4046.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -48,10 +50,78 @@
         "social_product_id": "none",
         "social_widget_type": "none"
       }
+    },
+    "7eb908a0-6f96-4f73-994b-c68ffb1fc411": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-share-1": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-text-1",
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1",
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1",
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1",
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-quantity_selector-1",
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-buy_buttons-1",
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-share-1"
+      ],
+      "settings": {
+        "product": "udon",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
-    "social_widget_59483"
+    "social_widget_59483",
+    "7eb908a0-6f96-4f73-994b-c68ffb1fc411"
   ]
 }
