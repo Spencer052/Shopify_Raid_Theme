@@ -54,31 +54,21 @@
     "7eb908a0-6f96-4f73-994b-c68ffb1fc411": {
       "type": "featured-product",
       "blocks": {
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1": {
           "type": "title",
           "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "262bc339-fe91-4610-b43a-95fb683a4186": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "THIS ITEM IS A PRE-ORDER.  ITEMS WILL SHIP APPROXIMATELY 2-3 WEEKS AFTER THE PRE-ORDER CLOSES.  ",
-            "text_style": "body"
+            "heading_size": "h2"
           }
         },
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1": {
           "type": "price",
           "settings": {
+          }
+        },
+        "11297906-ed09-4777-b0f5-4e7fd7bbaa5b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Dark Hearts Dining - where gastronomy meets Armageddon!  Behold, the masterpiece that'll leave your taste buds detonating with flavor and your style game exploding with awesomeness! This isn't your average ramen, it's a culinary coup d'état.\n\n<br\/>Picture this: Grenades masquerading as soft-boiled eggs are the explosive delight you didn't know your ramen needed. And those chopsticks? Well, forget the bamboo – we've upgraded to RPGs! No more delicately picking up noodles; you're going full-throttle on flavor."
           }
         },
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1": {
@@ -97,24 +87,15 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-share-1": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-text-1",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1",
-        "262bc339-fe91-4610-b43a-95fb683a4186",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1",
+        "11297906-ed09-4777-b0f5-4e7fd7bbaa5b",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1",
         "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-quantity_selector-1",
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-buy_buttons-1",
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-share-1"
+        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-buy_buttons-1"
       ],
       "settings": {
         "product": "udon",
