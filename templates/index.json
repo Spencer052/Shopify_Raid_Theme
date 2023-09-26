@@ -50,68 +50,10 @@
         "social_product_id": "none",
         "social_widget_type": "none"
       }
-    },
-    "7eb908a0-6f96-4f73-994b-c68ffb1fc411": {
-      "type": "featured-product",
-      "blocks": {
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "11297906-ed09-4777-b0f5-4e7fd7bbaa5b": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b>Dark Hearts Cartography Service<\/b> - Introducing our \"Dark Hearts Cartography Service\" shirt – where tactical precision meets MAP (hunting) enthusiasts in a clever twist of style!\n\n<li>Unleash your inner MAP hunter with our one-of-a-kind \"Dark Hearts Cartography Service\" shirt! This shirt doesn't just make a statement; it tells a story of adventure, precision, and a dash of mischief."
-          }
-        },
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        }
-      },
-      "block_order": [
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-title-1",
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-price-1",
-        "11297906-ed09-4777-b0f5-4e7fd7bbaa5b",
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-variant_picker-1",
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-quantity_selector-1",
-        "template--20756981448998__7eb908a0-6f96-4f73-994b-c68ffb1fc411-buy_buttons-1"
-      ],
-      "settings": {
-        "product": "cartography",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
-    "social_widget_59483",
-    "7eb908a0-6f96-4f73-994b-c68ffb1fc411"
+    "social_widget_59483"
   ]
 }
