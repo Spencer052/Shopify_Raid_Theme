@@ -95,6 +95,7 @@
         "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-buy_buttons-1",
         "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "1-of-1-special-hoodie",
         "color_scheme": "background-1",
@@ -108,14 +109,13 @@
     },
     "21ac352a-048e-4e86-87ba-5daae59f3346": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "special",
+        "collection": "shirts",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
