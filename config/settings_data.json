@@ -122,6 +122,10 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
+    "checkout_header_image": "shopify:\/\/shop_images\/DSC03882-Edit-1.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Website_Logo.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
