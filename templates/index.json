@@ -42,75 +42,10 @@
         "show_text_below": true
       }
     },
-    "be527bac-1548-48e8-992f-6946cc341775": {
-      "type": "featured-product",
-      "blocks": {
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "eb2a8159-e17f-4395-aaa5-b9e3cd5b7737": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "When you have friends that want the logo somewhere else, you only produce one.  This is the only hoodie to be made with the logo on the breast.  It's also only available in a large.\n<li>"
-          }
-        },
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-title-1",
-        "eb2a8159-e17f-4395-aaa5-b9e3cd5b7737",
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-price-1",
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-variant_picker-1",
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-quantity_selector-1",
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-buy_buttons-1",
-        "template--20756981448998__be527bac-1548-48e8-992f-6946cc341775-share-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "1-of-1-special-hoodie",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "21ac352a-048e-4e86-87ba-5daae59f3346": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "SHIRTS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -134,6 +69,33 @@
         "padding_bottom": 36
       }
     },
+    "37855db8-12cb-4039-864b-c1014d0bffe3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HOODIES & JACKETS",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "hoodies-1",
+        "products_to_show": 2,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "social_widget_59483": {
       "type": "social-widget",
       "disabled": true,
@@ -146,8 +108,8 @@
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
-    "be527bac-1548-48e8-992f-6946cc341775",
     "21ac352a-048e-4e86-87ba-5daae59f3346",
+    "37855db8-12cb-4039-864b-c1014d0bffe3",
     "social_widget_59483"
   ]
 }
