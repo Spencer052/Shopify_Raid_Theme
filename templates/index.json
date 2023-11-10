@@ -44,6 +44,7 @@
     },
     "21ac352a-048e-4e86-87ba-5daae59f3346": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "SHIRTS",
         "heading_size": "h2",
@@ -71,6 +72,7 @@
     },
     "37855db8-12cb-4039-864b-c1014d0bffe3": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "HOODIES & JACKETS",
         "heading_size": "h1",
@@ -99,7 +101,66 @@
     "social_widget_59483": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "59483"
+        "social_widget_id": "59483",
+        "social_product_id": "none",
+        "social_widget_type": "none"
+      }
+    },
+    "67c56bb5-bafb-4471-8cb7-f03b56c3cd4f": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-title-1",
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-price-1",
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-variant_picker-1",
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-quantity_selector-1",
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-buy_buttons-1",
+        "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-share-1"
+      ],
+      "settings": {
+        "product": "mystery",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -107,6 +168,7 @@
     "130088f2-a117-436e-9fc8-cecf15152b9c",
     "21ac352a-048e-4e86-87ba-5daae59f3346",
     "37855db8-12cb-4039-864b-c1014d0bffe3",
-    "social_widget_59483"
+    "social_widget_59483",
+    "67c56bb5-bafb-4471-8cb7-f03b56c3cd4f"
   ]
 }
