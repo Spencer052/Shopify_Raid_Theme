@@ -101,7 +101,6 @@
     },
     "21ac352a-048e-4e86-87ba-5daae59f3346": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "SHIRTS",
         "heading_size": "h2",
@@ -129,7 +128,6 @@
     },
     "37855db8-12cb-4039-864b-c1014d0bffe3": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "HOODIES & JACKETS",
         "heading_size": "h1",
