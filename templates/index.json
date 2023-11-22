@@ -42,6 +42,33 @@
         "show_text_below": true
       }
     },
+    "b81bd48e-84cb-438d-96a3-5d8d9fcdb433": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "special",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "67c56bb5-bafb-4471-8cb7-f03b56c3cd4f": {
       "type": "featured-product",
       "blocks": {
@@ -88,6 +115,7 @@
         "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-buy_buttons-1",
         "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "silent-night",
         "color_scheme": "background-1",
@@ -164,6 +192,7 @@
   },
   "order": [
     "130088f2-a117-436e-9fc8-cecf15152b9c",
+    "b81bd48e-84cb-438d-96a3-5d8d9fcdb433",
     "67c56bb5-bafb-4471-8cb7-f03b56c3cd4f",
     "21ac352a-048e-4e86-87ba-5daae59f3346",
     "37855db8-12cb-4039-864b-c1014d0bffe3",
