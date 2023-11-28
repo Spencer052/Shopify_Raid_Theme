@@ -44,7 +44,6 @@
     },
     "b81bd48e-84cb-438d-96a3-5d8d9fcdb433": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "PRE-ORDER",
         "heading_size": "h1",
@@ -116,6 +115,7 @@
         "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-buy_buttons-1",
         "template--20756981448998__67c56bb5-bafb-4471-8cb7-f03b56c3cd4f-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "dead-heart",
         "color_scheme": "background-1",
