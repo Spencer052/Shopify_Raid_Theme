@@ -98,7 +98,7 @@
           "settings": {
             "heading": "Product Reviews",
             "layout": "grid",
-            "star_color": "#ffd84f",
+            "star_color": "#8b0000",
             "when_no_reviews": "show_from_related"
           }
         }
