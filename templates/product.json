@@ -57,6 +57,9 @@
         "description",
         "share"
       ],
+      "custom_css": [
+        ".price {color: #fff !important;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
@@ -95,7 +98,7 @@
           "settings": {
             "heading": "Product Reviews",
             "layout": "grid",
-            "star_color": "#FFD84F",
+            "star_color": "#ffd84f",
             "when_no_reviews": "show_from_related"
           }
         }
